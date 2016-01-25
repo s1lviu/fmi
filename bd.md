@@ -1,5 +1,6 @@
 # Baze de Date - Letiția Velcescu
 
+- **învață** baze de date din [lista asta de lucruri](http://interviews.palcu.ro/starting-sql/)
 - [chestii găsite de Iulia Duță](https://www.dropbox.com/sh/ghdn5mr9jfhg69x/AADMq4rG0cfzCBqCnMN3hAOxa?dl=0)
 - [chestii gasite de Vlad Florescu](https://www.dropbox.com/sh/mbmgt45xzbts018/AAB40EK2w2gsLRBDLQKwLcjda?dl=0)
 - recomand sa bagi [laboratoarele](https://www.dropbox.com/sh/3lgxzzs2993ysut/AADDJ2WdVmPBN1X183RJxziNa?dl=0) cu cod
@@ -7,6 +8,10 @@
 - apoi uita-te peste [recapitulare](https://www.dropbox.com/sh/r7cfhcptpss3vz4/AAArjZEhmQeyNNLjqDhOpPFfa?dl=0)
 
 ## Exemple examen
+
+- 19.06.2015 via Maya Naboulsi
+
+> Teorie: La subiectul de 10,din toamna, la 1: a)constructia modelului relational b)reguli de optimizare. La 2: Un student participa la stagii de practica. Stagiile sunt de 2 tipuri: dezvoltare si suport tehnic. Fiecare stagiu are o data de inceput si data de sfarsit. Stagiile de tip dezvoltare necesita cunoasterea unor limbaje de programare. Pe perioada efectuarii unui stagiu, studentii pot lucra pe sarcini asociate unor proiecte ale companiei si sunt coordonate de specialisti din compania respectiva. In timpul unui stagiu, un student lucreaza cu anumite tehnologii. Iti cerea sa adaugi o entitate si sa faci diagrama conceptuala(si inca cateva cerinte, nu le mai stiu). La 3: iti dadea un tabel si trebuia sa scrii niste dependente, apoi sa zici daca era relatia in FN2 si FN3(si sa justifici), si sa zici ce este cheia candidat si sa zici care era cheia candidat in cazul acesta.
 
 - 12.06.2015 via Diana Jianu Stefan
 
